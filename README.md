@@ -9,6 +9,10 @@
 
 *Get referance to ALV and get fieldcatalog*
 ```abap 
+
+  GET REFERENCE OF lt_content_data INTO lt_data.
+  ASSIGN lt_data->* TO <tab>.
+  
   TRY .
       cl_salv_table=>factory(
       EXPORTING

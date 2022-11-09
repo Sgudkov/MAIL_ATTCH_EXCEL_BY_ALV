@@ -1,4 +1,4 @@
-# Attache excel to mail using ALV 
+# Attachment excel to mail using ALV 
 
 ### Here is a simple way to send ALV in excel attachments by email.
 
