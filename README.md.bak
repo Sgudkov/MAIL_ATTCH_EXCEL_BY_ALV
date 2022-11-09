@@ -55,5 +55,3 @@
 
   t_objbin = cl_bcs_convert=>xstring_to_solix( lv_xstring ).
 ```   
-
-*Finally fill table t_objpack and send transformed data in attachments*
